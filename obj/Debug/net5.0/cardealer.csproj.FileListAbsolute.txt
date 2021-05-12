@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.exe
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.deps.json
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.dll
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\ref\cardealer.dll
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\bin\Debug\net5.0\cardealer.pdb
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.dll
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\ref\cardealer.dll
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.pdb
+C:\Users\andre\OneDrive\Desktop\C# Repos\cardealer\obj\Debug\net5.0\cardealer.genruntimeconfig.cache
